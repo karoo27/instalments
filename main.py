@@ -53,4 +53,3 @@ print("Rozkład dla odsetek ACT/365:")
 for a in test2:
     print(a)
 
-print("aaa")
